@@ -11,15 +11,15 @@ export default function Navbar(props) {
                     <a>Bagels</a>
                 </Link>
             </span>
-            <Link href="/gallery">
+            {/* <Link href="/gallery">
                 <a>GALLERY</a>
-            </Link>
+            </Link> */}
             <a href="https://discord.gg/bagels">
                 DISCORD
             </a>
-            <button className={styles.mode} type="button">
+            {/* <button className={styles.mode} type="button">
                 <i className="far fa-moon"></i>
-            </button>
+            </button> */}
         </nav>
     )
 }
