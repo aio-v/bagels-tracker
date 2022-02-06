@@ -1,0 +1,19 @@
+.table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.sort {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.header {
+    background-color: rgb(230, 230, 230);
+}
+
+.header th {
+    padding: 10px;
+}

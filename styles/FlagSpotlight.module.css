@@ -1,0 +1,20 @@
+.wrapper {
+    width: 600px;
+}
+
+.flaggers_container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 10px;
+}
+
+.flagger {
+    display: inline-block;
+    text-align: center;
+    margin: 10px;
+}
+
+.filler {
+    margin-left: auto;
+}

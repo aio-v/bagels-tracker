@@ -1,0 +1,29 @@
+.navWrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    column-gap: 50px;
+    width: 90%;
+    margin-top: 5%;
+    margin-bottom: 50px;
+    font-size: 24px;
+}
+
+.logoWrapper {
+    font-weight: bold;
+    font-size: 48px;
+    margin-right: auto;
+}
+
+.mode {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+    font-size: 24px;
+}
+
+.mode:hover {
+    color: white;
+}

@@ -1,0 +1,8 @@
+.row {
+    display: flex;
+    text-align: center;
+}
+
+.column {
+    text-align: center;
+}
